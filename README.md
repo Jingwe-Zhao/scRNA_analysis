@@ -1,6 +1,7 @@
 # scRNA-seq analysis process
 ## Part 1 ：Single cell multi sample integration and cell annotation
-![image](https://github.com/Jingwe-Zhao/scRNA_analysis/assets/131982430/c5df900d-134b-4e45-b1d0-a438b6c783ed)
+![image](https://github.com/Jingwe-Zhao/scRNA_analysis/assets/131982430/f29e9991-6b5b-4c38-b4e0-56bf5326d7ea)
+
 
 
 
