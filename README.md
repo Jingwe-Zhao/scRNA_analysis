@@ -5,13 +5,14 @@
 
 
 
-## Part 2 ：CellChat for comparison analysis of multiple datasets
-![image](https://github.com/Jingwe-Zhao/scRNA_analysis/assets/131982430/bfa6aba4-f6e3-434d-88f9-d12665ff27a8)
+## Part 2 ：Trajectory analysis for cell subcluster with Monocle2
 
 
 
-## Part 3 ：Trajectory analysis for cell subcluster with Monocle2
-![image](https://github.com/Jingwe-Zhao/scRNA_analysis/assets/131982430/48000e49-caff-4a3c-8f91-d3b2c5e03be2)
+
+## Part 3 ：CellChat for comparison analysis of multiple datasets
+![image](https://github.com/Jingwe-Zhao/scRNA_analysis/assets/131982430/f6447862-8c5c-4b29-843c-5cf62350a9ad)
+
 
 
 
