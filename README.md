@@ -18,7 +18,8 @@
 
 
 ## Part 4 ：Metabolism activity analysis with scMetabolism
-![image](https://github.com/Jingwe-Zhao/scRNA_analysis/assets/131982430/3e7ad55a-bbac-42eb-bb84-1bf6e12855f5)
+![image](https://github.com/Jingwe-Zhao/scRNA_analysis/assets/131982430/ae7c1b8a-11a2-4cf7-ab68-6b8b8935ef46)
+
 
 
 
