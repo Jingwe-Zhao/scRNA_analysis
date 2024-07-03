@@ -6,6 +6,7 @@
 
 
 ## Part 2 ：Trajectory analysis for cell subcluster with Monocle2
+![image](https://github.com/Jingwe-Zhao/scRNA_analysis/assets/131982430/de85d10b-7072-4799-9bf1-b1eb61c23efe)
 
 
 
